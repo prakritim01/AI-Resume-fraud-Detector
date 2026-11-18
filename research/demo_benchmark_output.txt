@@ -1,0 +1,12 @@
+RUN NOTE: measured only on included 20-row synthetic dataset; not representative/generalizable.
+TF-IDF threshold sweep (aligned positive label):
+threshold=0.10 accuracy=0.550 precision=0.538 recall=0.700 f1=0.609
+threshold=0.15 accuracy=0.650 precision=0.667 recall=0.600 f1=0.632
+threshold=0.20 accuracy=0.650 precision=0.714 recall=0.500 f1=0.588
+threshold=0.25 accuracy=0.600 precision=0.667 recall=0.400 f1=0.500
+threshold=0.30 accuracy=0.600 precision=0.667 recall=0.400 f1=0.500
+threshold=0.35 accuracy=0.600 precision=0.750 recall=0.300 f1=0.429
+threshold=0.40 accuracy=0.500 precision=0.500 recall=0.100 f1=0.167
+threshold=0.45 accuracy=0.500 precision=0.500 recall=0.100 f1=0.167
+threshold=0.50 accuracy=0.500 precision=0.500 recall=0.100 f1=0.167
+Sentence-BERT was not evaluated in this environment because sentence-transformers was not installed. Do not compare TF-IDF with SBERT until the optional package/model is installed and the benchmark is rerun.

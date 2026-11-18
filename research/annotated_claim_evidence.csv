@@ -1,0 +1,21 @@
+id,claim,evidence,label,category,annotator_note
+S001,"Reduced API latency by 30% through caching","Implemented cache layer that cut average endpoint latency by thirty percent",aligned,achievement,Paraphrase with matching metric and outcome
+S002,"Led a team of 8 engineers","Project notes show individual contributor role; no leadership role stated",weak_support,role,Leadership not evidenced in excerpt
+S003,"AWS Certified Solutions Architect","AWS credential record lists Solutions Architect certification",aligned,credential,Exact credential named
+S004,"Bachelor of Computer Science, 2022-2026","Transcript lists BSc Computer Science from 2022 through 2026",aligned,education,Equivalent wording and dates
+S005,"Processed 2 million events per day","Pipeline logs summary: 1.8M daily events at peak",weak_support,metric,Metric differs; human context needed
+S006,"Intern at Northstar Labs, Jun-Aug 2024","Internship confirmation states Northstar Labs, June 2024 to August 2024",aligned,employment,Dates and employer match
+S007,"Built a fraud detection model with 94% accuracy","Project report describes fraud classifier; reported accuracy 79%",weak_support,metric,Metric mismatch
+S008,"Expert in Kubernetes","Course notes include Kubernetes basics; no deployment or assessment evidence",weak_support,skill,Experience depth not demonstrated
+S009,"Published paper in 2025","Publication list includes a 2025 conference paper with matching title",aligned,publication,Publication evidence excerpt
+S010,"Managed $5M budget","Budget sheet excerpt states project budget was $500,000",weak_support,metric,Order-of-magnitude discrepancy
+S011,"Designed REST API for 4 services","Architecture notes describe API endpoints for four microservices",aligned,project,Semantically equivalent evidence
+S012,"Worked at Acme for 5 years","Employment record indicates Acme role lasted 18 months",weak_support,timeline,Duration discrepancy
+S013,"Python, SQL, pandas","Technical assessment shows Python and SQL; pandas not mentioned",weak_support,skills,One listed skill unsupported by excerpt
+S014,"Awarded Dean's List in 2023","Academic record includes Dean's List award for 2023",aligned,award,Exact award and year match
+S015,"Improved conversion by 12%","Experiment report shows conversion increased 11.7%",aligned,metric,Small rounding difference
+S016,"Created mobile app with 100k users","App analytics snapshot reports 12,400 monthly active users",weak_support,metric,Claim and metric scope may differ
+S017,"Worked remotely with global team","Project retrospective describes remote collaboration across 3 time zones",aligned,experience,Context supports broad statement
+S018,"Certified Scrum Master","Training completion certificate only; no Scrum Master credential listed",weak_support,credential,Training completion is not same as certification
+S019,"Graduated with distinction","Transcript shows distinction classification",aligned,education,Classification terminology matches
+S020,"Owned production ML deployment","Release notes identify model deployed; ownership is not attributed",weak_support,ownership,Deployment exists but ownership claim unsubstantiated

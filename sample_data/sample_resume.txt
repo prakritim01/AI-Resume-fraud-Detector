@@ -1,0 +1,22 @@
+ALEX MORGAN
+alex.morgan@example.test | https://portfolio.example.test
+
+SUMMARY
+Software engineer focused on backend systems and cloud infrastructure.
+
+EXPERIENCE
+Senior Software Engineer — Example Systems
+Jan 2022 - Dec 2020
+- Improved API throughput by 35% through caching and query optimisation.
+- Processed 2 million events per day in a distributed pipeline.
+
+EDUCATION
+B.Tech Computer Science, Fictional Institute
+Aug 2021 - May 2025
+
+CERTIFICATIONS
+AWS Certified Solutions Architect — Professional
+
+PROJECTS
+- Built a task queue prototype using Python, Redis and FastAPI.
+- Led a team project serving 1.5 million requests per second in a classroom load test.
